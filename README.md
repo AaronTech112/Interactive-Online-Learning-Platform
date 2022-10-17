@@ -1,1 +1,1 @@
-# Interactive-Online-Learning-Platform
+# Interactive-Online-Study-Platform
